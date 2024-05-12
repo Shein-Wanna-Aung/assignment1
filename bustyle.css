@@ -1,0 +1,104 @@
+button {
+    border: none;
+}
+
+.a{
+    background-color: rgb(79, 175, 230);
+    margin-left: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+.b{
+    background-color:rgba(211, 199, 199, 0.763);
+    margin-left: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+.c{
+    background-color:rgb(50, 170, 50);
+    margin-left: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+.d{
+    background-color:rgb(61, 61, 157);
+    margin-left: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+.e{
+    background-color: rgb(223, 155, 20);
+    margin-left: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+.f{
+    background-color: rgb(227, 10, 14);
+    margin-left: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+.g{
+    background-color:rgb(79, 175, 230);
+    margin-left: 20px;
+    border-radius: 30px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+.h{
+    background-color: rgb(79, 175, 230);
+    margin-left: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: inline-block;
+}
+.i{
+    background-color:rgb(79, 175, 230);
+    margin-left: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+.j{
+    background-color: transparent;
+    border: 1px dashed rgb(79, 175, 230);
+    margin-left: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: rgb(79, 175, 230);
+}
+.k{
+    border: none;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: transparent;
+    color: rgb(79, 175, 230);
+}
+.l{
+    border: 1px solid rgb(79, 175, 230);
+    background-color:transparent;
+    margin-left: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: rgb(79, 175, 230);
+}
+.n{
+    border-radius: 20px;
+    background-color: rgb(79, 175, 230);
+    margin-left: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+
